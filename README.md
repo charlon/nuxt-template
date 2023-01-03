@@ -1,2 +1,2 @@
 # nuxt-template
-Nuxt starter template
+Nuxt3 starter template
